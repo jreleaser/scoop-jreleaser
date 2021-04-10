@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "license": "Apache-2.0",
   "url": "https://github.com/jreleaser/jreleaser/releases/download/v0.1.0/jreleaser-0.1.0.zip",
-  "hash": "sha256:d89072587437d90c26f7f7fc4843937327e8584e557daea19965a5a1983ab2f2",
+  "hash": "sha256:00d0f8897f18a1d2670701af1451fd5c55f89ec59d880805d7f5dd6cc5fc8fa4",
   "extract_dir": "jreleaser-0.1.0",
   "env_add_path": "bin",
   "suggest": {
