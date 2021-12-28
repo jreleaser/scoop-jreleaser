@@ -1,11 +1,11 @@
 {
   "homepage": "https://jreleaser.org",
   "description": "Release projects quickly and easily with JReleaser",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "license": "Apache-2.0",
-  "url": "https://github.com/jreleaser/jreleaser/releases/download/v0.9.1/jreleaser-0.9.1.zip",
-  "hash": "sha256:c834816967bf948e90837bb0d10f5f22290b20c617a29c3177a8051d5e74d956",
-  "extract_dir": "jreleaser-0.9.1",
+  "url": "https://github.com/jreleaser/jreleaser/releases/download/v0.10.0/jreleaser-0.10.0.zip",
+  "hash": "sha256:956669d3c3032cf2c583b502bdc836823f7285ec8283291d66a65293acbe61e9",
+  "extract_dir": "jreleaser-0.10.0",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
